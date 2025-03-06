@@ -392,12 +392,12 @@ bottom: -30px;
 .testimonial-area {
 padding: 0 0 0 0;
 margin:0;
-background: url(../img/low-poly01.jpg) fixed center center;
+
 background-size: cover;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -ms-background-size: cover;
-background: url('../img/slides/1.jpg') -70px -193px;
+background: url('../img/image1.jpg') -70px -193px;
 }
 .testimonial-solid p {
 color: #FFFFFF;
